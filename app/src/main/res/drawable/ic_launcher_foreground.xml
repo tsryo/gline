@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A route winding from a start dot to a destination pin. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M37,72 C37,61 50,64 54,58 S67,53 71,47"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,72 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M71,22 C65,22 61,26.5 61,32 C61,39 71,48 71,48 C71,48 81,39 81,32 C81,26.5 77,22 71,22 Z M71,28.5 a3.5,3.5 0 1,1 0,7 a3.5,3.5 0 1,1 0,-7 Z" />
+</vector>
